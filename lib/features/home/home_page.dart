@@ -89,6 +89,14 @@ class ItemList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
+      leading: Container(
+        height: 50,
+        width: 50,
+        color: Colors.grey,
+        child: post.imageUrl != null
+            ? Image.network(post.imageUrl!, fit: BoxFit.cover)
+            : Icon(Icons.photo),
+      ),
       title: Text(post.title),
       subtitle: Text(
         post.content,
