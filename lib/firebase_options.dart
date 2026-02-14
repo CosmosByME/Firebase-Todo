@@ -46,6 +46,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '50778628971',
     projectId: 'my-cool-project-1202202',
     authDomain: 'my-cool-project-1202202.firebaseapp.com',
+    databaseURL: 'https://my-cool-project-1202202-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'my-cool-project-1202202.firebasestorage.app',
   );
 
@@ -54,6 +55,7 @@ class DefaultFirebaseOptions {
     appId: '1:50778628971:android:1975e0d13c7828acc8a22e',
     messagingSenderId: '50778628971',
     projectId: 'my-cool-project-1202202',
+    databaseURL: 'https://my-cool-project-1202202-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'my-cool-project-1202202.firebasestorage.app',
   );
 
@@ -62,6 +64,7 @@ class DefaultFirebaseOptions {
     appId: '1:50778628971:ios:ba2d2c6d197c174fc8a22e',
     messagingSenderId: '50778628971',
     projectId: 'my-cool-project-1202202',
+    databaseURL: 'https://my-cool-project-1202202-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'my-cool-project-1202202.firebasestorage.app',
     iosBundleId: 'com.example.myapp',
   );
@@ -71,6 +74,7 @@ class DefaultFirebaseOptions {
     appId: '1:50778628971:ios:ba2d2c6d197c174fc8a22e',
     messagingSenderId: '50778628971',
     projectId: 'my-cool-project-1202202',
+    databaseURL: 'https://my-cool-project-1202202-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'my-cool-project-1202202.firebasestorage.app',
     iosBundleId: 'com.example.myapp',
   );
@@ -81,6 +85,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '50778628971',
     projectId: 'my-cool-project-1202202',
     authDomain: 'my-cool-project-1202202.firebaseapp.com',
+    databaseURL: 'https://my-cool-project-1202202-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'my-cool-project-1202202.firebasestorage.app',
   );
 
